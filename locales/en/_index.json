@@ -1,0 +1,332 @@
+{
+  "agent-team": {
+    "keys": 25,
+    "packages": [
+      "dsh-experimental-client-ui-agent-team"
+    ]
+  },
+  "approval": {
+    "keys": 5,
+    "packages": [
+      "dsh-client-ui-approval"
+    ]
+  },
+  "chat": {
+    "keys": 191,
+    "packages": [
+      "dsh-client-ui-chat"
+    ]
+  },
+  "command": {
+    "keys": 28,
+    "packages": [
+      "dsh-client-ui-commands"
+    ]
+  },
+  "common": {
+    "keys": 41,
+    "packages": [
+      "dsh-client-locale"
+    ]
+  },
+  "conversation": {
+    "keys": 374,
+    "packages": [
+      "dsh-client-ui-conversation"
+    ]
+  },
+  "cordis": {
+    "keys": 51,
+    "packages": [
+      "dsh-client-ui-cordis"
+    ]
+  },
+  "deepseek-model-label-1017": {
+    "keys": 1,
+    "packages": [
+      "dsh-client-ui-deepseek-model-label-1017"
+    ]
+  },
+  "deliverables": {
+    "keys": 60,
+    "packages": [
+      "dsh-client-ui-deliverables"
+    ]
+  },
+  "entryCustomization": {
+    "keys": 5,
+    "packages": [
+      "dsh-client-ui-entry-customization"
+    ]
+  },
+  "feedback": {
+    "keys": 20,
+    "packages": [
+      "dsh-client-ui-message-feedback"
+    ]
+  },
+  "goal": {
+    "keys": 12,
+    "packages": [
+      "dsh-client-ui-goal"
+    ]
+  },
+  "job": {
+    "keys": 40,
+    "packages": [
+      "dsh-client-ui-jobs"
+    ]
+  },
+  "model": {
+    "keys": 23,
+    "packages": [
+      "dsh-client-ui-model-selection"
+    ]
+  },
+  "open-in-app": {
+    "keys": 45,
+    "packages": [
+      "dsh-client-ui-open-in-app"
+    ]
+  },
+  "permission.access": {
+    "keys": 17,
+    "packages": [
+      "dsh-client-ui-permission-presets"
+    ]
+  },
+  "plan": {
+    "keys": 17,
+    "packages": [
+      "dsh-client-ui-plan"
+    ]
+  },
+  "pluginManager": {
+    "keys": 221,
+    "packages": [
+      "dsh-client-ui-plugin-manager"
+    ]
+  },
+  "pluginMarket": {
+    "keys": 78,
+    "packages": [
+      "dsh-client-ui-plugin-market"
+    ]
+  },
+  "question": {
+    "keys": 31,
+    "packages": [
+      "dsh-client-ui-user-questions"
+    ]
+  },
+  "reference": {
+    "keys": 15,
+    "packages": [
+      "dsh-client-ui-reference"
+    ]
+  },
+  "schedule.catalog": {
+    "keys": 70,
+    "packages": [
+      "dsh-client-ui-schedule"
+    ]
+  },
+  "schedule.manager": {
+    "keys": 188,
+    "packages": [
+      "dsh-client-ui-schedule"
+    ]
+  },
+  "secretMask": {
+    "keys": 2,
+    "packages": [
+      "dsh-client-ui-secret-mask"
+    ]
+  },
+  "session-inspector": {
+    "keys": 52,
+    "packages": [
+      "dsh-experimental-session-inspector"
+    ]
+  },
+  "session-log-download": {
+    "keys": 10,
+    "packages": [
+      "dsh-session-log-export"
+    ]
+  },
+  "settings": {
+    "keys": 41,
+    "packages": [
+      "dsh-client-ui-settings-general"
+    ]
+  },
+  "settings.account": {
+    "keys": 94,
+    "packages": [
+      "dsh-client-ui-settings-account"
+    ]
+  },
+  "settings.agentLoop": {
+    "keys": 12,
+    "packages": [
+      "dsh-client-ui-settings-agent-loop"
+    ]
+  },
+  "settings.agentPreset": {
+    "keys": 47,
+    "packages": [
+      "dsh-client-ui-agent-preset"
+    ]
+  },
+  "settings.locale": {
+    "keys": 1,
+    "packages": [
+      "dsh-client-locale"
+    ]
+  },
+  "settings.models": {
+    "keys": 134,
+    "packages": [
+      "dsh-client-ui-settings-models"
+    ]
+  },
+  "settings.pluginInventory": {
+    "keys": 37,
+    "packages": [
+      "dsh-client-ui-settings-plugin-inventory"
+    ]
+  },
+  "settings.plugins": {
+    "keys": 5,
+    "packages": [
+      "dsh-client-ui-settings-plugins"
+    ]
+  },
+  "settings.sessionLog": {
+    "keys": 4,
+    "packages": [
+      "dsh-client-ui-settings-session-log"
+    ]
+  },
+  "settings.shell": {
+    "keys": 14,
+    "packages": [
+      "dsh-client-ui-settings-shell"
+    ]
+  },
+  "settings.subagent": {
+    "keys": 35,
+    "packages": [
+      "dsh-client-ui-settings-subagent"
+    ]
+  },
+  "settings.theme": {
+    "keys": 25,
+    "packages": [
+      "dsh-client-ui-theme"
+    ]
+  },
+  "settings.webSearch": {
+    "keys": 27,
+    "packages": [
+      "dsh-client-ui-settings-web-search"
+    ]
+  },
+  "shortcuts": {
+    "keys": 56,
+    "packages": [
+      "dsh-client-ui-shortcuts"
+    ]
+  },
+  "shortcuts.layout": {
+    "keys": 1,
+    "packages": [
+      "dsh-client-ui-layout"
+    ]
+  },
+  "sidebar": {
+    "keys": 6,
+    "packages": [
+      "dsh-client-ui-sidebar"
+    ]
+  },
+  "sidebarBrowser": {
+    "keys": 26,
+    "packages": [
+      "dsh-client-ui-sidebar-browser"
+    ]
+  },
+  "sidebarCodePreview": {
+    "keys": 3,
+    "packages": [
+      "dsh-client-ui-sidebar-documentpreview"
+    ]
+  },
+  "sidebarDocumentPreview": {
+    "keys": 22,
+    "packages": [
+      "dsh-client-ui-sidebar-documentpreview"
+    ]
+  },
+  "sidebarFiles": {
+    "keys": 17,
+    "packages": [
+      "dsh-client-ui-sidebar-files"
+    ]
+  },
+  "sidebarRight": {
+    "keys": 35,
+    "packages": [
+      "dsh-client-ui-sidebar-right"
+    ]
+  },
+  "sidebarTerminal": {
+    "keys": 28,
+    "packages": [
+      "dsh-client-ui-sidebar-terminal"
+    ]
+  },
+  "skill": {
+    "keys": 8,
+    "packages": [
+      "dsh-client-ui-skill"
+    ]
+  },
+  "slash.menu": {
+    "keys": 9,
+    "packages": [
+      "dsh-client-ui-input-trigger"
+    ]
+  },
+  "subagent": {
+    "keys": 41,
+    "packages": [
+      "dsh-client-ui-subagent"
+    ]
+  },
+  "trajectory": {
+    "keys": 192,
+    "packages": [
+      "dsh-client-ui-trajectory"
+    ]
+  },
+  "voice-input": {
+    "keys": 109,
+    "packages": [
+      "dsh-experimental-client-ui-voice-input"
+    ]
+  },
+  "workflowRun": {
+    "keys": 18,
+    "packages": [
+      "dsh-client-ui-workflow-run"
+    ]
+  },
+  "workspace": {
+    "keys": 119,
+    "packages": [
+      "dsh-client-ui-workspace"
+    ]
+  }
+}

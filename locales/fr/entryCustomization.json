@@ -1,0 +1,7 @@
+{
+  "install": "Parcourir d'autres plugins",
+  "create": "Créer votre plugin",
+  "createPrompt.sidebar": "Crée un plugin DSH avec une entrée dans la barre latérale gauche.",
+  "createPrompt.conversation": "Crée un plugin DSH de vue de conversation.",
+  "createPrompt.rightbar": "Crée un plugin DSH avec une entrée dans la barre latérale droite."
+}

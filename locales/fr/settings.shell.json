@@ -1,0 +1,16 @@
+{
+  "title": "Shell",
+  "description": "Limitez la durée d’exécution de chaque commande et la quantité de sortie qu’elle peut produire.",
+  "timeoutMs": "Délai d’expiration des commandes (ms)",
+  "timeoutMsHint": "Durée pendant laquelle une commande peut s’exécuter avant d’être interrompue.",
+  "maxOutputBytes": "Plafond de sortie par flux (octets)",
+  "maxOutputBytesHint": "Ce qui dépasse cette limite est déversé dans un fichier temporaire au lieu d’être perdu.",
+  "overridden": "Remplacé",
+  "reset": "Rétablir la valeur par défaut",
+  "readOnly": "Ce déploiement stocke les réglages en lecture seule.",
+  "unavailable": "Ce plugin n’est pas chargé, il ne peut donc pas être configuré pour le moment.",
+  "save": "Enregistrer",
+  "saving": "Enregistrement…",
+  "saveFailed": "Le déploiement n’a pas accepté ces valeurs ; elles ont été laissées pour que vous les corrigiez.",
+  "invalidNumber": "Saisissez un nombre, ou laissez vide pour utiliser la valeur par défaut."
+}

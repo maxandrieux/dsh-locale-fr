@@ -1,0 +1,22 @@
+{
+  "action.like": "Bonne réponse",
+  "action.likeActive": "Retirer la note",
+  "action.dislike": "Mauvaise réponse",
+  "action.dislikeActive": "Retirer la note",
+  "dialog.title": "Envoyer un avis",
+  "dialog.categories": "Catégorie d'avis",
+  "dialog.detail": "Détails de l'avis",
+  "dialog.hint": "Ajoutez des précisions pour nous aider à nous améliorer. Votre envoi inclura le journal de la conversation en cours.",
+  "category.task-result": "Résultat de la tâche",
+  "category.instruction-following": "Compréhension et respect des instructions",
+  "category.product-interaction": "Fonctionnalités et interactions du produit",
+  "category.service-stability": "Stabilité et rapidité",
+  "category.resource-cost": "Consommation de ressources et coût",
+  "category.security-privacy-permission": "Sécurité, confidentialité et permissions",
+  "category.other": "Autre",
+  "toast.recorded": "Merci pour votre avis",
+  "error.conflict": "Cet avis a été modifié ailleurs ; l'état le plus récent est affiché",
+  "error.load": "Impossible de charger l'avis",
+  "error.generic": "Impossible d'enregistrer l'avis",
+  "error.noteTooLarge": "La description est trop longue ; raccourcissez-la et envoyez de nouveau"
+}

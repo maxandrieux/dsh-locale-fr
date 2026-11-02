@@ -1,0 +1,26 @@
+{
+  "name": "dsh-locale-fr",
+  "version": "0.1.0",
+  "description": "French interface language pack for DSH (DeepSeek Harness), falling back to English for untranslated copy.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Maxence Andrieux",
+  "repository": { "type": "git", "url": "https://github.com/maxandrieux/dsh-locale-fr" },
+  "keywords": ["dsh-plugin", "dsh", "locale", "french", "i18n"],
+  "scripts": { "build": "node scripts/build.mjs" },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": ["index.js", "client.js", "cordis.patch.yml", "locale/*.json", "icon.svg"],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": ["@deepseek-ai/dsh-client-locale"]
+    }
+  }
+}
